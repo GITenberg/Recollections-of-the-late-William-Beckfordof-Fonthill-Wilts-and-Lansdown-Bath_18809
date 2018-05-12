@@ -1,0 +1,41 @@
+_repo: Recollections-of-the-late-William-Beckfordof-Fonthill-Wilts-and-Lansdown-Bath_18809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lansdown, Henry Venn
+    gutenberg_agent_id: '8267'
+    url: http://www.gutenberg.org/2009/agents/8267
+  editor:
+    agent_name: Lansdown, Charlotte
+    gutenberg_agent_id: '37967'
+    url: http://www.gutenberg.org/2009/agents/37967
+description: ''
+gutenberg_issued: '2006-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18809'
+  lccn: '20001993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beckford, William, 1760-1844 -- Homes and haunts -- England -- Wiltshire'
+- !lcsh 'Beckford, William, 1760-1844'
+- !lcsh 'Bath (England) -- Biography'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Eccentrics and eccentricities -- Great Britain -- Biography'
+- !lcsh 'Authors, English -- Homes and haunts -- England -- Wiltshire'
+- !lcsh 'Travelers -- Great Britain -- Biography'
+- !lcsh 'Wiltshire (England) -- Intellectual life'
+- !lcsh 'Wiltshire (England) -- Biography'
+- !lcsh 'Bath (England) -- Intellectual life'
+- !lcsh 'Art -- Collectors and collecting -- Great Britain -- Biography'
+- !lcc 'PR'
+title: 'Recollections of the late William Beckford
+
+  of Fonthill, Wilts and Lansdown, Bath'
+url: http://www.gutenberg.org/ebooks/18809
