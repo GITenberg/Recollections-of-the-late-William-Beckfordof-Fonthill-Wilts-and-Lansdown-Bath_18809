@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '37967'
     url: http://www.gutenberg.org/2009/agents/37967
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18809#Recollections-of-the-late-William-Beckfordof-Fonthill-Wilts-and-Lansdown-Bath
 gutenberg_issued: '2006-07-12'
 gutenberg_type: Text
 identifiers:
